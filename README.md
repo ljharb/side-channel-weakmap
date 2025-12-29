@@ -58,5 +58,5 @@ Clone the repo, `npm install`, and run `npm test`
 [downloads-url]: https://npm-stat.com/charts.html?package=side-channel-weakmap
 [codecov-image]: https://codecov.io/gh/ljharb/side-channel-weakmap/branch/main/graphs/badge.svg
 [codecov-url]: https://app.codecov.io/gh/ljharb/side-channel-weakmap/
-[actions-image]: https://img.shields.io/endpoint?url=https://github-actions-badge-u3jn4tfpocch.runkit.sh/ljharb/side-channel-weakmap
+[actions-image]: https://img.shields.io/github/check-runs/ljharb/side-channel-weakmap/main
 [actions-url]: https://github.com/ljharb/side-channel-weakmap/actions
